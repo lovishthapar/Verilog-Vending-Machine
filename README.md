@@ -38,4 +38,4 @@ The testbench module simulates the clock signal, resets the machine, and provide
 ## Usage
 To get a local copy of the project, you can clone the repository using the below mentioned command:
 
-      git clone https://github.com/riaagarwal21/Verilog-Vending-Machine
+      git clone https://github.com/lovishthapar/Verilog-Vending-Machine
